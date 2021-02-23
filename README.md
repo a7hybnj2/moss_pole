@@ -7,6 +7,8 @@ This is something to do with botany. I don't know much more about it. A botany e
 Yes. Do your thing. If you see a better way to achieve the results then let me know. Also, if you end up printing this thing send me pictures to include here.
 
 ### TODO:
+- fix the math on unit height
+  - after exporting several examples I found some cases that broke the formula
 - ~~rename files. turns out these are not for x. so, rename them.~~
   - ~~figure out what this thing is so I can rename it correctly~~
 - ~~move to appropriately named repo~~
