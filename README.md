@@ -20,14 +20,14 @@ Yes. Do your thing. If you see a better way to achieve the results then let me k
   - [one](https://www.ohiotropics.com/2020/05/03/diy-moss-pole-how-to-make/)
   - [two](https://garden.org/ideas/view/threegardeners/881/Make-Your-Own-Moss-Pole/)
 - moss_pole_v2.FCStd
-  - remove unnecessary formulas from spreadsheet
-  - format spreadsheet
+  - ~~remove unnecessary formulas from spreadsheet~~
+  - ~~format spreadsheet~~
   - add instructions/descriptions to spreadsheet
     - disclaimer about how certain values can cause issues
   - ~~boolean fuse hex_tube, hat, and boots~~
   - var for isBottom, isMid, or isTop
     - it may be okay to have them all be mids
-  - add several more examples
+  - re-add several more examples
 - moss_pole_stake.FCStd
   -  need to produce
 - moss_pole_conn.FCStd
