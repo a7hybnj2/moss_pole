@@ -1,16 +1,16 @@
 # moss_pole
 
 ### Description:
-This is something to do with botany. I don't know much more about it. A botany enthusiast I know bought something similar to this at a farmers market. It seemed sturdy but kept falling over and was too small. So, I made a version were all the parameters could be dialed in.
+This is something to do with botany. I don't know much more about it. A botany enthusiast I know bought something similar to this at a farmers market. It seemed sturdy but kept falling over and was too small. So, I made a version where all the parameters could be dialed in.
 
 ### Contribute:
-Yes. Do your thing. If you see a better way to achieve the results then let me know. Also, if you end of printing this thing send me pictures to include here.
+Yes. Do your thing. If you see a better way to achieve the results then let me know. Also, if you end up printing this thing send me pictures to include here.
 
 ### TODO:
 - ~~rename files. turns out these are not for x. so, rename them.~~
   - ~~figure out what this thing is so I can rename it correctly~~
 - ~~move to appropriately named repo~~
-  - with a readme
+  - ~~with a readme~~
   - ~~and a license~~
     - ~~checkout those new open design license~~
 	  - ~~CERN OHL?~~
